@@ -41,7 +41,7 @@ Choose following E.G.O Gifts:
 
 ---
 
-## Floors
+## Floor Packs
 Floor 1: Faith & Erosion
 <br>
 Floor 2: Hell's Chicken
