@@ -6,6 +6,7 @@ Your Team should have:
 - 5 Poise Identities
 <br>
 Team Example:
+<br>
 <p align="center">
   <img src="https://github.com/NexerPM/Limbus-Company/blob/main/Assets/image2.PNG?raw=true" alt="Team Example" width="80%">
   <br>
