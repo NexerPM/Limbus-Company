@@ -1,7 +1,7 @@
 ## Notice!
 
 All E.G.O Gifts that are shown here are **NECESSARY** to get! ( Except the economy E.G.O Gifts )
-You still can get other E.G.O Gifts that aren't shown here!
+\nYou still can get other E.G.O Gifts that aren't shown here!
 
 
 FF - For Fusion
