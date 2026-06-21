@@ -6,11 +6,13 @@ You still can get other E.G.O Gifts that aren't shown here!
 FF - For Fusion
 
 
+
 Slash E.G.O Gifts:
 - Resolution ( Haste & Final Power )
 - Sundered Memory ( Base Power & Coin Power )
 - Broken Greatsword ( Clash Power, Offense Level Up )
 - Overused Whetstone ( FF )
+
 
 
 Blunt E.G.O Gifts:
