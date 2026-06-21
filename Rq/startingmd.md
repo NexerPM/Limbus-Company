@@ -8,7 +8,6 @@ Your Team should have:
 <p align="center">
   <img src="https://github.com/NexerPM/Limbus-Company/blob/main/Assets/image2.PNG?raw=true" alt="Team Example" width="80%">
   <br>
-  <em>Recommended team composition</em>
 </p>
 
 ---
