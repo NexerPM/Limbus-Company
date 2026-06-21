@@ -51,33 +51,33 @@ Floor 3: Hatred and Despair | Full-Stopped by a Bullet
 
 <br>
 
-Floor 4-10:
+Floors 4-10:
 <br>
-Murder on the WARP Express ( Any )
+- Murder on the WARP Express ( Any )
 <br>
-Yield My Flesh to Claim Their Bones ( Any )
+- Yield My Flesh to Claim Their Bones ( Any )
 <br>
-Mnestic Experience
+- Mnestic Experience
 <br>
-LCB Regular Check-Up BokGak
+- LCB Regular Check-Up BokGak
 <br>
-Textbook
+- Textbook
 <br>
-The Evil Defining
+- The Evil Defining
 <br>
-Unbound Wrath | Tangling Lust | Inert Sloth | Excessive Gluttony | Sunk Gloom | Tyrannical Pride | Pitiful Envy
+- Unbound Wrath | Tangling Lust | Inert Sloth | Excessive Gluttony | Sunk Gloom | Tyrannical Pride | Pitiful Envy
 
 <br>
 
-Floor 11-14:
+Floors 11-14:
 <br>
-Bearers of Weight
+- Bearers of Weight
 <br>
-Chachihu
+- Chachihu
 <br>
-A Midspring Night's Dream 2
+- A Midspring Night's Dream 2
 <br>
-The Master of La Manchaland
+- The Master of La Manchaland
 
 <br>
 
