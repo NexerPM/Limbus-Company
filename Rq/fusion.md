@@ -16,7 +16,7 @@ Everything that's shown here **MUST** be fused!
         <li>VUnadorned Sword-guard</li>
       </ul>
     </td>
-    <td style="width: 50%; text-align: center;">
+    <td style="width: 100%; text-align: center;">
       <img src="https://github.com/NexerPM/Limbus-Company/blob/main/Assets/Gifts/80px-The_Book_of_the_Homeland_Swordplay_-%E6%9C%AC%E5%9C%8B%E5%8A%8D%E8%AD%9C-_Gift.webp?raw=true" alt="The Book of the Homeland Swordplay [本國劍譜]" style="max-width: 100%;">
     </td>
   </tr>
