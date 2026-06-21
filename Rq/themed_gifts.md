@@ -1,59 +1,39 @@
-## Notice!
+## Team
+Your Team should have:
+- 5 Charge Identities
+- 5 Bleed Identities
+- 5 Burn Identities
+- 5 Poise Identities
 
-All E.G.O Gifts that are shown here are **NECESSARY** to get!
-<br>
-You can still get other E.G.O Gifts that aren't shown here!
+<p align="center">
+  <img src="https://github.com/NexerPM/Limbus-Company/blob/main/Assets/image2.PNG?raw=true" alt="Team Example" width="80%">
+  <br>
+  <em>Recommended team composition</em>
+</p>
 
+---
 
-FF - For Fusion
+## Graces
+Choose following graces:
 
-<br><br>
+<p align="center">
+  <img src="https://github.com/NexerPM/Limbus-Company/blob/main/Assets/image1.PNG?raw=true" alt="Graces" width="80%">
+</p>
 
-## Slash E.G.O Gifts:
-- Rusted Hilt ( Slash Power Up )
-- Red Tassel ( FF )
-- Unadorned Sword-guard ( FF )
+---
 
-<br><br>
+## Starting E.G.O Gifts
+Choose following E.G.O Gifts:
 
-## Tremor E.G.O Gifts:
-- For the Capo ( EXTREME, Coin Power )
+<p align="center">
+  <img src="https://github.com/NexerPM/Limbus-Company/blob/main/Assets/image3.PNG?raw=true" alt="Starting E.G.O Gifts" width="80%">
+</p>
 
-<br><br>
+---
 
-## Poise E.G.O Gifts:
-- Harpoon Prosthetic Leg ( FF )
+## Searching E.G.O Gifts
+Choose following E.G.O Gifts:
 
-<br><br>
-
-## Charge E.G.O Gifts:
-- Magical Girl's Lovely Gift ( SP Recovery )
-- Modified Extraction : AEDD ( Offense Level Up )
-- Biogenerative Battery ( FF )
-- Cardiovascular Reactive Module ( FF )
-- Prosthetic Joint Servos ( FF )
-
-<br><br>
-
-## Burn E.G.O Gifts:
-- Combustion Gloves ( Offense Level Up )
-- Re-ignition Plug ( Offense Level Up )
-- Burning Fate ( EXTREME, Offense Level Up )
-
-<br><br>
-
-## Bleed E.G.O Gifts:
-- Crystallized Blood ( FF )
-- The Family's Resentment ( EXTREME, Attack Power Up )
-
-<br><br>
-
-## Keywordless E.G.O Gifts:
-- Darkflame Smoking Pipe ( Attack Power Up )
-- Spicebush Branch ( FF )
-- Broken Glasses ( FF )
-- Tango Marinade ( Clash Power )
-- Spiderweb Entangled in Red ( Final Power & Coin Power )
-- Ohra Bond ( Offense Level Down )
-- Entangled Fate ( Final Power )
-- Kkomi's Mini-Gift ( EXTREME, Offense Level Up )
+<p align="center">
+  <img src="https://github.com/NexerPM/Limbus-Company/blob/main/Assets/image4.PNG?raw=true" alt="Searching E.G.O Gifts" width="80%">
+</p>
