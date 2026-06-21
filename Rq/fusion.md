@@ -4,7 +4,6 @@ Everything that's shown here **MUST** be fused!
 <table>
   <tr>
     <td style="width: 100%; vertical-align: top;">
-      <br>
       <h3>The Book of the Homeland Swordplay [本國劍譜]</h3>
       <p>
         This E.G.O Gift grants more damage and offense level to slash skills.
