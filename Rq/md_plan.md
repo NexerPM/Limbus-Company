@@ -38,3 +38,27 @@ Choose following E.G.O Gifts:
 <p align="center">
   <img src="https://github.com/NexerPM/Limbus-Company/blob/main/Assets/image4.PNG?raw=true" alt="Searching E.G.O Gifts" width="80%">
 </p>
+
+
+## Floors
+
+Floor 1: Faith & Erosion
+Floor 2: Hell's Chicken
+Floor 3: Hatred and Despair | Full-Stopped by a Bullet
+
+Floor 4-10:
+Murder on the WARP Express ( Any )
+Yield My Flesh to Claim Their Bones ( Any )
+Mnestic Experience
+LCB Regular Check-Up BokGak
+Textbook
+The Evil Defining
+Unbound Wrath | Tangling Lust | Inert Sloth | Excessive Gluttony | Sunk Gloom | Tyrannical Pride | Pitiful Envy
+
+Floor 11-14:
+Bearers of Weight
+Chachihu
+A Midspring Night's Dream 2
+The Master of La Manchaland
+
+Floor 15: Bridle of Infinity
