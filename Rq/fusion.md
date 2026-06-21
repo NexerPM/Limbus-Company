@@ -8,7 +8,6 @@ Everything that's shown here **MUST** be fused!
       <p>
         This E.G.O Gift grants more damage and offense level to slash skills.
         <br>
-        Required E.G.O Gifts for fusion:
       </p>
       <ul>
         <li>Overused Whetstone</li>
