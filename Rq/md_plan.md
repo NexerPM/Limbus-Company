@@ -51,31 +51,20 @@ Floor 3: Hatred and Despair | Full-Stopped by a Bullet
 <br>
 
 Floors 4-10:
-<br>
 - Murder on the WARP Express ( Any )
-<br>
 - Yield My Flesh to Claim Their Bones ( Any )
-<br>
 - Mnestic Experience
-<br>
 - LCB Regular Check-Up BokGak
-<br>
 - Textbook
-<br>
 - The Evil Defining
-<br>
 - Unbound Wrath | Tangling Lust | Inert Sloth | Excessive Gluttony | Sunk Gloom | Tyrannical Pride | Pitiful Envy
 
 <br>
 
 Floors 11-14:
-<br>
 - Bearers of Weight
-<br>
 - Chachihu
-<br>
 - A Midspring Night's Dream 2
-<br>
 - The Master of La Manchaland
 
 <br>
