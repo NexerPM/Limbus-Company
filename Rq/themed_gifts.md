@@ -24,6 +24,7 @@ FF - For Fusion
 <br><br>
 
 ## Poise E.G.O Gifts:
+- Ohra Bond ( Offense Level Down | Requires Bind )
 - Harpoon Prosthetic Leg ( FF )
 
 <br><br>
@@ -56,6 +57,5 @@ FF - For Fusion
 - Broken Glasses ( FF )
 - Tango Marinade ( Clash Power )
 - Spiderweb Entangled in Red ( Final Power & Coin Power )
-- Ohra Bond ( Offense Level Down | Requires Bind )
 - Entangled Fate ( Final Power )
 - Kkomi's Mini-Gift ( EXTREME, Offense Level Up )
