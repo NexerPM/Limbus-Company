@@ -59,9 +59,9 @@ Floors 4-10:
 - Yield My Flesh to Claim Their Bones ( Any )
 - Mnestic Experience
 - LCB Regular Check-Up BokGak
-- Textbook
+- Textbook ( Recommended to take on early floors )
 - The Evil Defining
-- Unbound Wrath | Tangling Lust | Inert Sloth | Excessive Gluttony | Sunk Gloom | Tyrannical Pride | Pitiful Envy
+- Unbound Wrath | Tangling Lust | Inert Sloth | Excessive Gluttony | Sunk Gloom | Tyrannical Pride | Pitiful Envy ( Recommended to take on early floors )
 
 <br>
 
