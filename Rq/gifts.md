@@ -11,7 +11,7 @@ FF - For Fusion
 ## Slash E.G.O Gifts:
 - Resolution ( Haste & Final Power )
 - Sundered Memory ( Base Power & Coin Power )
-- Broken Greatsword ( Clash Power, Offense Level Up )
+- Broken Greatsword ( Clash Power & Offense Level )
 - Overused Whetstone ( FF )
 
 <br><br>
@@ -30,7 +30,7 @@ FF - For Fusion
 
 ## Sinking E.G.O Gifts:
 - Midwinter Nightmare ( Sinking Application )
-- Red Order ( Offense Level Up | Requires Midwinter Nightmare )
+- Red Order ( Offense Level | Requires Midwinter Nightmare )
 - Melted Spring ( Offense Level Down & Defense Level Down | Requires Midwinter Nightmare )
 
 <br><br>
@@ -44,7 +44,7 @@ FF - For Fusion
 
 ## Poise E.G.O Gifts:
 - Cigarette Holder ( Power Up )
-- Clear Mirror, Calm Water ( Offense Level Up )
+- Clear Mirror, Calm Water ( Offense Level )
 - Finifugality ( Clash Power )
 - Nebulizer ( FF )
 - Ornamental Horseshoe ( FF )
@@ -61,7 +61,7 @@ FF - For Fusion
 - Employee Card ( Charge Gain )
 - Portable Battery Socket ( Charge Gain )
 - Charge-type Gloves ( Charge Gain )
-- Nightvision Goggles ( Offense Level Up )
+- Nightvision Goggles ( Offense Level )
 - UPS System ( FF )
 - Miniature Telepole ( FF )
 - Curriculum Vitae ( FF )
@@ -73,7 +73,7 @@ FF - For Fusion
 <br><br>
 
 ## Burn E.G.O Gifts:
-- Pain of Stifled Rage ( Offense Level Up )
+- Pain of Stifled Rage ( Offense Level )
 - Ardent Flower ( Clash Power )
 - Ashes to Ashes ( FF )
 - Dust to Dust ( FF )
@@ -88,7 +88,7 @@ FF - For Fusion
 
 ## Bleed E.G.O Gifts:
 - Red-stained Gossypium ( Offense Level Down & Defense Level Down )
-- Respite ( Offense Level Up )
+- Respite ( Offense Level )
 - Sanguine Fragrance Descends ( Clash Power )
 - Arrested Hymn ( FF )
 - Millarca ( FF )
@@ -103,10 +103,10 @@ FF - For Fusion
 ## Keywordless E.G.O Gifts:
 - Sunshower ( Skill Power )
 - Rusty Commemorative Coin ( E.G.O Skill Reuse )
-- Late-bloomer’s Tattoo ( Offense Level Up & Defense Level Up )
+- Late-bloomer’s Tattoo ( Offense Level & Defense Level )
 - Faith ( SP Heal )
 - Piece of Relationship ( Level Up )
 - Imposed Weight ( Attack Power Up )
-- Golden Urn ( More Cost )
+- Golden Urn ( More Cost | Not Necessary )
 - Milepost of Survival ( More Cost | Not Necessary )
 - Prestige Card ( Cheaper E.G.O Gifts | Not Necessary )
