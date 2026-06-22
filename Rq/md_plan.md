@@ -41,7 +41,7 @@ Choose following E.G.O Gifts:
   <img src="https://github.com/NexerPM/Limbus-Company/blob/main/Assets/image4.PNG?raw=true" alt="Searching E.G.O Gifts" width="80%">
 </p>
 <br>
-You can also swap Darkflame Smoking Pipe with Magical Girl's Lovely Gift
+(You can swap Darkflame Smoking Pipe with Magical Girl's Lovely Gift)
 
 ---
 
