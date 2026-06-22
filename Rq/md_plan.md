@@ -61,7 +61,7 @@ Floors 4-10:
 - Mnestic Experience
 - LCB Regular Check-Up BokGak
 - Textbook ( Recommended to take on early floors )
-- The Evil Defining
+- The Evil Defining | The B.E.
 - Unbound Wrath | Tangling Lust | Inert Sloth | Excessive Gluttony | Sunk Gloom | Tyrannical Pride | Pitiful Envy ( Recommended to take on early floors )
 
 <br>
