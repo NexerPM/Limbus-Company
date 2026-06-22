@@ -1,4 +1,6 @@
-## Notice!
+[Return to overview](https://github.com/NexerPM/Limbus-Company/blob/main/Rq/HOS.md)
+
+## Themed E.G.O Gifts
 
 All E.G.O Gifts that are shown here are **NECESSARY** to get!
 <br>
