@@ -9,3 +9,5 @@
 [Fusion List](https://github.com/NexerPM/Limbus-Company/blob/main/Rq/fusion.md)
 <br>
 [Mirror Dungeon Plan](https://github.com/NexerPM/Limbus-Company/blob/main/Rq/md_plan.md)
+<br>
+[15th Floor Plan](https://github.com/NexerPM/Limbus-Company/blob/main/Rq/last_floor_plan.md)
