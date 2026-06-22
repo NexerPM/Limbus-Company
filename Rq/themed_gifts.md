@@ -57,6 +57,6 @@ FF - For Fusion
 - Broken Glasses ( FF )
 - Tango Marinade ( Clash Power )
 - Spiderweb Entangled in Red ( Final Power & Coin Power )
-- Ohra Bond ( Offense Level Down )
+- Ohra Bond ( Offense Level Down | Requires Bind )
 - Entangled Fate ( Final Power )
 - Kkomi's Mini-Gift ( EXTREME, Offense Level Up )
