@@ -47,6 +47,13 @@ FF - For Fusion
 - Clear Mirror, Calm Water ( Offense Level Up )
 - Finifugality ( Clash Power )
 - Nebulizer ( FF )
+- Ornamental Horseshoe ( FF )
+- Pendant of Nostalgia ( FF )
+- Recollection of a Certain Day ( FF )
+- Four-leaf Clover ( FF )
+- Devil's Share ( FF )
+- Angel's Cut ( FF )
+- Endorphin Kit ( FF )
 
 <br><br>
 
