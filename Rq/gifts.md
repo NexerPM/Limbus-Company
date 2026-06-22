@@ -39,7 +39,7 @@ FF - For Fusion
 
 ## Rupture E.G.O Gifts:
 - Standard-duty Battery ( Rupture Application )
-- Broken Revolver ( Offense Level Down & Defense Level Down | Standard-duty Battery )
+- Broken Revolver ( Offense Level Down & Defense Level Down | Requires Standard-duty Battery )
 - Ragged Umbrella ( FF )
 
 <br><br>
