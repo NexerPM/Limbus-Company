@@ -1,3 +1,5 @@
+## This is a small guide on how to get as much power as possible!
+
 [Main E.G.O Gifts](https://github.com/NexerPM/Limbus-Company/blob/main/Rq/gifts.md)
 <br>
 [Themed E.G.O Gifts](https://github.com/NexerPM/Limbus-Company/blob/main/Rq/themed_gifts.md)
