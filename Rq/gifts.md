@@ -27,6 +27,7 @@ FF - For Fusion
 - Downpour ( Tremor Bursts at Turn End )
 - Melted Eyeball ( Offense Level Down & Defense Level Down | Requires Downpour )
 - Bell of Truth ( Fragile | Requires Downpour )
+- Reverberation ( Bind Application )
 
 <br><br>
 
