@@ -46,6 +46,7 @@ FF - For Fusion
 
 ## Bleed E.G.O Gifts:
 - Crystallized Blood ( FF )
+- N Corp. Service des Clous Briefcase ( Bind Application )
 - The Family's Resentment ( EXTREME, Attack Power Up )
 
 <br><br>
