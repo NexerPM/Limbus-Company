@@ -1,3 +1,5 @@
+[Return to overview](https://github.com/NexerPM/Limbus-Company/blob/main/Rq/HOS.md)
+
 ## Team
 Your Team should have:
 - 5 Charge Identities
