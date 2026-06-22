@@ -30,7 +30,6 @@ FF - For Fusion
 
 ## Charge E.G.O Gifts:
 - Magical Girl's Lovely Gift ( SP Recovery )
-- Modified Extraction : AEDD ( Offense Level Up )
 - Biogenerative Battery ( FF )
 - Cardiovascular Reactive Module ( FF )
 - Prosthetic Joint Servos ( FF )
