@@ -1,3 +1,5 @@
+[Return to overview](https://github.com/NexerPM/Limbus-Company/blob/main/Rq/HOS.md)
+
 ## Fusion List
 Everything that's shown here **MUST** be fused!
 
