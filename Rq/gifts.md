@@ -76,6 +76,7 @@ FF - For Fusion
 
 ## Burn E.G.O Gifts:
 - Pain of Stifled Rage ( Offense Level )
+- Fiery Down ( Burn Multiplier )
 - Ardent Flower ( Clash Power )
 - Ashes to Ashes ( FF )
 - Dust to Dust ( FF )
@@ -104,7 +105,7 @@ FF - For Fusion
 
 ## Keywordless E.G.O Gifts:
 - Sunshower ( Skill Power )
-- Rusty Commemorative Coin ( E.G.O Skill Reuse )
+- Rusty Commemorative Coin ( Skill Reuse )
 - Late-bloomer’s Tattoo ( Offense Level & Defense Level )
 - Faith ( SP Heal )
 - Piece of Relationship ( Level Up )
