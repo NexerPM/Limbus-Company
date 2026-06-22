@@ -6,6 +6,7 @@ Your Team should have:
 - 5 Bleed Identities
 - 5 Burn Identities
 - 5 Poise Identities
+- 4 or 6 HOS Members excluding Ryoshu
 <br>
 Team Example:
 
